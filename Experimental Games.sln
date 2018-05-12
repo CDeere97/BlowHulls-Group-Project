@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Experimental Games.Plugins", "Experimental Games.Plugins.csproj", "{4DFA741E-83B4-AD5B-C745-28C519472D0A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Experimental Games", "Experimental Games.csproj", "{117A0945-AEF2-BABC-F785-DFF968661575}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Experimental Games.Editor.Plugins", "Experimental Games.Editor.Plugins.csproj", "{EA7AE8BE-4BF9-DEEF-C74B-739AB9C0E882}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DFA741E-83B4-AD5B-C745-28C519472D0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DFA741E-83B4-AD5B-C745-28C519472D0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DFA741E-83B4-AD5B-C745-28C519472D0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DFA741E-83B4-AD5B-C745-28C519472D0A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{117A0945-AEF2-BABC-F785-DFF968661575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{117A0945-AEF2-BABC-F785-DFF968661575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{117A0945-AEF2-BABC-F785-DFF968661575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{117A0945-AEF2-BABC-F785-DFF968661575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA7AE8BE-4BF9-DEEF-C74B-739AB9C0E882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA7AE8BE-4BF9-DEEF-C74B-739AB9C0E882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA7AE8BE-4BF9-DEEF-C74B-739AB9C0E882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA7AE8BE-4BF9-DEEF-C74B-739AB9C0E882}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
